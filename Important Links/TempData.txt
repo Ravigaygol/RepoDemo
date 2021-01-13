@@ -1,0 +1,20 @@
+{
+     "firstname": "Suresh",
+	 "lastname":"Raina",
+	 "email":"Virat@gmail.com",
+	 "gender":"Male",
+	 "dateOfBirth":60,
+	 "password":"200",
+	 "confirmPassword":"200"
+
+}
+
+{    "restid":1,
+	 "restname":"Ravi Restaurant",
+	 "restaddress":"Akurdi,Pune",
+     "restphone": "020123456",
+     "openTime":"13:11:02",
+     "closeTime":"15:10:06"
+}
+
+

@@ -1,0 +1,167 @@
+1)http://w3school.com/
+-------------------------------------------------------------------------------------
+2)Spring framework-
+https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html
+-------------------------------------------------------------------------------------
+3)Spring Dependency Injection-
+https://www.journaldev.com/2410/spring-dependency-injection
+-------------------------------------------------------------------------------------
+4)Spring Boot tutorial-
+https://www.java4s.com/spring-boot-tutorials/
+-------------------------------------------------------------------------------------
+5)Spring MVC Crud Example-
+https://www.javainterviewpoint.com/spring-mvc-crud-example-mysql/
+-------------------------------------------------------------------------------------
+6)Java 8 features
+*** https://beginnersbook.com/2017/10/java-8-optional-class/
+*** https://beginnersbook.com/2017/10/method-references-in-java-8/
+-------------------------------------------------------------------------------------
+7)Spring Boot Relationships Examples-
+https://hellokoding.com/restful-api-example-with-spring-boot-spring-data-rest-one-to-many-relationship-and-mysql/
+-------------------------------------------------------------------------------------
+8)Spring boot annotations relationships examples-
+https://www.netsurfingzone.com/hibernate/one-to-many-mapping-annotation-example-in-hibernate-jpa-using-spring-boot-and-oracle/
+-------------------------------------------------------------------------------------
+9)Type Script -
+https://www.tutorialsteacher.com/typescript
+-------------------------------------------------------------------------------------
+10)Event Loop-
+https://youtu.be/8aGhZQkoFbQ
+-------------------------------------------------------------------------------------
+11)Angular 8 Tutorials-
+*** https://www.tutorialandexample.com/angular-8-tutorial/
+*** https://www.c-sharpcorner.com/article/learn-angular-8-step-by-step-in-10-days-day-1/
+-------------------------------------------------------------------------------------
+12)-ResponceEntity in RestApi-
+https://technicalsand.com/using-responseentity-in-spring/
+---------------------------------------------------------------------------------
+13)Angular cheatSheet-
+https://angular.io/guide/cheatsheet
+---------------------------------------------------------------------------------
+14)Angular Cli Cheat Sheet-
+https://www.techladder.in/article/angular-cli-cheat-sheet
+---------------------------------------------------------------------------------
+15)2)https://www.tutorialsteacher.com/javascript/javascript-tutorials
+---------------------------------------------------------------------------------
+16)CSS Table code-
+http://cssmenumaker.com/blog/stylish-css-tables-tutorial/
+---------------------------------------------------------------------------------
+17)Spring Interview questions 1-
+https://www.baeldung.com/spring-interview-questions
+---------------------------------------------------------------------------------
+18)Spring interview questions 2-
+https://hackr.io/blog/spring-interview-questions
+---------------------------------------------------------------------------------
+19)Spring interview questions 3-
+https://www.edureka.co/blog/interview-questions/spring-interview-questions/
+---------------------------------------------------------------------------------
+20)Spring Boot interview questions 4-
+https://www.guru99.com/spring-boot-interview-questions.html
+---------------------------------------------------------------------------------
+21)Spring interview questions 5-
+https://www.journaldev.com/2696/spring-interview-questions-and-answers
+---------------------------------------------------------------------------------
+22)Spring boot interview questions-
+https://www.journaldev.com/8611/spring-boot-interview-questions
+---------------------------------------------------------------------------------
+23)Pure ,impure pipe-
+https://tutorialsforangular.com/2020/02/11/understanding-pure-vs-impure-pipes-in-angular/
+---------------------------------------------------------------------------------
+24)My Git Hub AngularApplication Repository Link-
+https://github.com/Ravigaygol/AngularApplication.git
+---------------------------------------------------------------------------------
+25)Add bootstrap in angular 10-
+ng add @ng-bootstrap/ng-bootstrap
+(OR)
+let's run following commands:
+
+npm install bootstrap --save
+npm install jquery --save
+npm install popper.js --save
+Now after successfully run above command. let's import it in angular.json file.
+
+angular.json
+
+....
+      "styles": [
+        "node_modules/bootstrap/dist/css/bootstrap.min.css",
+        "src/styles.css"
+      ],
+      "scripts": [
+          "node_modules/jquery/dist/jquery.min.js",
+          "node_modules/bootstrap/dist/js/bootstrap.min.js"
+      ]
+.....
+ ---------------------------------------------------------------------------------
+26)Git Hub Authorization token-
+vscode://vscode.github-authentication/did-authenticate?windowid=1&code=1c0f9de7927c458dd87f&state=643cd61f-d154-4380-a673-63c505ede5ea
+---------------------------------------------------------------------------------
+27)Input and output Decorator-
+https://www.tektutorialshub.com/angular/angular-input-output-eventemitter/#input-output-eventemitter
+---------------------------------------------------------------------------------
+28)Git Hub-
+git config --global user.name "Your Name"
+git config --global user.email "youremail@yourdomain.com"
+---------------------------------------------------------------------------------
+29)Angular forms tutorial-
+https://www.tektutorialshub.com/angular/angular-template-driven-forms/#what-is-template-driven-form
+---------------------------------------------------------------------------------
+30)Spring CRUD example-
+https://www.javaguides.net/2020/01/spring-boot-angular-9-crud-example-tutorial.html
+---------------------------------------------------------------------------------
+31)Spring CRUD example-
+https://bezkoder.com/angular-spring-boot-crud/
+---------------------------------------------------------------------------------
+32)Spring CRUD example-
+https://www.javainuse.com/spring/ang7-crud
+---------------------------------------------------------------------------------
+33)Angular Toast-
+https://www.itsolutionstuff.com/post/how-to-use-toaster-notification-in-angular-8example.html
+---------------------------------------------------------------------------------
+34) Image upload code-
+https://www.codejava.net/frameworks/spring-boot/spring-boot-file-upload-tutorial
+---------------------------------------------------------------------------------
+35)Logout button-
+https://stackblitz.com/edit/angular-login-hide-navbar-ngif?file=src%2Fapp%2Fheader%2Fheader.component.ts
+---------------------------------------------------------------------------------
+36)My wishtree zonions github link-
+https://github.com/Ravigaygol/Restaurant-Zonions
+---------------------------------------------------------------------------------
+37)Important Sites for MySql-
+https://www.codeconquest.com/blog/top-50-websites-to-learn-mysql/
+---------------------------------------------------------------------------------
+38)Wishtree gitHub account recovery codes-
+8ec5d-0eff9 
+6a623-380d0 
+e47cd-198ef 
+f0718-ee105 
+dc0e5-c2607 
+42330-5199e 
+ec509-93db9 
+447d1-b5c88 
+19259-de681 
+d4578-2fed5 
+20078-d5f6e 
+e460e-aa7d5 
+a413f-fe1d9 
+25687-8f954 
+55a46-50342 
+d913c-1ff87
+
+----------------------------------------------------------------------------------------------------------------------------------------
+39)Angular course download-
+https://freecoursesite.com/angular-4-the-complete-guide-3/?__cf_chl_jschl_tk__=e52b83f5bd32ea58182845c7ca961644bd115a1d-1609829749-0-AZWwQXv5TDqqwN6TL2ImzMMN3rv1TKLIRgm1hw5HmkLM5OI1JbWAWP13cc-6ZKl0J9Fh9PFAUifQIFczbkOIUbn45hiaATK5MYSc8TlWUBZPvqB24GYyEcWFnh8MjyXcNErncuqqgSmcGWSB3ScYTpOTkFC5-xR_wwNANVfkTh-Aozvk6HeJ15aSYO5ZGn7cJF6-BqBAgYqz9UQseXABHm0O_CdQHlgT7IB-wWsrhCscmkCD9dUievHH-B5RnI9WT1DIJkQ1HtQeoMVoWTzTUzxNihvZ8Ene2eZbXwrNSAlLJTpExlDeUia55EZykPzyrODkxcNbDVh_ntWKjuup8lNvf4zeH5MTMBRLz6h_PFC1
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+40) Angular Boostrap setup instructions:
+https://www.npmjs.com/package/ngx-bootstrap
+https://github.com/valor-software/ngx-bootstrap#installation-instructions
+----------------------------------------------------------------------------------------------------------------------------------------
+41) Bootstrap all components and material:
+https://getbootstrap.com/docs/4.5/components/navbar/
+----------------------------------------------------------------------------------------------------------------------------------------
+42) Git information ;https://guides.github.com/introduction/git-handbook/
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
